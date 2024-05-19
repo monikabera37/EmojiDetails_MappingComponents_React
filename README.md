@@ -1,0 +1,2 @@
+# EmojiDetails_MappingComponents_React
+Created with CodeSandbox
